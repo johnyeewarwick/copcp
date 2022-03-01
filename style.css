@@ -175,4 +175,11 @@ body {
       font-size: 150px;
     }
   }
+  .panel-heading {
+    color: #fff !important;
+    background-color: #9400D3d8 !important;
+    padding: 5px;
+    border-bottom: 1px solid transparent;
+    
+}
  
